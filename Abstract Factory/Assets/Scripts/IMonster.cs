@@ -1,0 +1,19 @@
+public interface IMonster { }
+public class Dracolich : IMonster { }
+public class Nothic : IMonster { }
+public class Dragon : IMonster { }
+public class Basilisk : IMonster { }
+public class Beholder : IMonster { }
+public class Hydra : IMonster { }
+public class Grell : IMonster { }
+public class GelatinousCube : IMonster { }
+public class Flumph : IMonster { }
+public class Slaad : IMonster { }
+public class Darkmantle : IMonster { }
+public class GibberingMouther : IMonster { }
+public class RugOfSmothering : IMonster { }
+public class Grimlock : IMonster { }
+public class Griffon : IMonster { }
+public class Owlbear : IMonster { }
+public class Chimera : IMonster { }
+public class Demogorgon : IMonster { }
